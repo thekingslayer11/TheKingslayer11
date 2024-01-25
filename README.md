@@ -37,14 +37,9 @@ I'm currently immersed in the world of microcontrollers, developing complex Andr
 ## Tools: 
 <p align="left">
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="36" height="36" alt="Vscode" /></a>
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="36" height="36" alt="Andriod Studio" /></a>
-<a href="https://www.uipath.com/" target="_blank" rel="noreferrer"><img src="https://uipath.com/cdn-cgi/image/format=auto/https://marketplace-cdn.uipath.com/images/user_images/698e5cf9-0af3-44e7-bde7-03897d753cb8.png" width="36" height="36" alt="UIPath" /></a>
-<a href="https://www.gimp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="36" height="36" alt="GIMP" /></a>
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="36" height="36" alt="Android Studio" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Vscode" /></a>
-<a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/ed44ae57571fe5fdba9c41a72c5bb0d2ed1dd86623c6d485ca248c61291bd6bc/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34352f4e6f74696f6e5f6170705f6c6f676f2e706e67" width="36" height="36" alt="Notion" /></a>
-<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/e28b554f829e78abca73c638e5f69fecda2d5fdad728bce751547a71d62f620d/68747470733a2f2f69636f6e6170652e636f6d2f77702d636f6e74656e742f706e675f6c6f676f5f766563746f722f6e65746c6966792e706e67" width="36" height="36" alt="Netlify" /></a>
-<a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="36" height="36" alt="Vscode" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="36" height="36" alt="FireBase" /></a>
 </p>
 
@@ -58,7 +53,7 @@ I'm currently immersed in the world of microcontrollers, developing complex Andr
 	    <li><b>Laptop: </b>HP Pavilion <img height="20" src="https://www.nehruplacedealers.com/wp-content/uploads/2022/12/256711_5_jagzvd.png"/></li>
 	    <li><b>Specs:</b> AMD Ryzen 5 <img height="20" src="https://www.apple.com/newsroom/images/product/mac/standard/Apple_new-M1-chip_11102020.jpg.news_app_ed.jpg"/> </li>
   	    <li><b>Browser: </b> Google Chrome <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/></li>
-	    <li><b>Code Editor:</b> VSCode <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> - The best editor out there</li>
+	    <li><b>Code Editor:</b> VSCode <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></li>
 	    <br/>
 	</ul>	
 </details>
