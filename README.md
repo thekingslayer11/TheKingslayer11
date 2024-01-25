@@ -9,7 +9,7 @@
 I'm currently immersed in the world of microcontrollers, developing complex Android applications that seamlessly bridge the gap between hardware and software.
 
  
-## Talking about Personal Stuffs: 
+## Talking about Personal Stuff: 
 
 * 🌍  I'm based in Bengaluru, India
 * 🖥️  See my portfolio at [ysandeep.dev](https://ysandeep.dev/)
@@ -56,9 +56,9 @@ I'm currently immersed in the world of microcontrollers, developing complex Andr
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS: </b>MacOS Sonoma <img height="20" src="https://i.pcmag.com/imagery/reviews/06RfdFpPwulpOiNTTPsjnFr-13..v1689175331.png"/> </li>
-	    <li><b>Laptop: </b>MacBook Air <img height="20" src="https://www.nehruplacedealers.com/wp-content/uploads/2022/12/256711_5_jagzvd.png"/></li>
-	    <li><b>Specs:</b> M1 Chip <img height="20" src="https://www.apple.com/newsroom/images/product/mac/standard/Apple_new-M1-chip_11102020.jpg.news_app_ed.jpg"/> </li>
+  	    <li><b>OS: </b>Windows 11 <img height="20" src="https://i.pcmag.com/imagery/reviews/06RfdFpPwulpOiNTTPsjnFr-13..v1689175331.png"/> </li>
+	    <li><b>Laptop: </b>HP Pavilion <img height="20" src="https://www.nehruplacedealers.com/wp-content/uploads/2022/12/256711_5_jagzvd.png"/></li>
+	    <li><b>Specs:</b> AMD Ryzen 5 <img height="20" src="https://www.apple.com/newsroom/images/product/mac/standard/Apple_new-M1-chip_11102020.jpg.news_app_ed.jpg"/> </li>
   	    <li><b>Browser: </b> Google Chrome <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/></li>
 	    <li><b>Code Editor:</b> VSCode <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> - The best editor out there</li>
 	    <br/>
