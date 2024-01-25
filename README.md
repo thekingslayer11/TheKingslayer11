@@ -4,7 +4,7 @@
   <img src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/cover-sandeep.png" />
 </p>
 
-## Glad to see you here! &nbsp;<img src="https://komarev.com/ghpvc/?username=ysandeepkumarreddy&label=Profile%20views&color=0e75b6&style=flat" alt="ysandeepkumarreddy" /> ![](https://img.shields.io/github/followers/thekingslayer11?label=Follow&style=social) [![wakatime](https://wakatime.com/badge/user/89685b5b-ee36-49ba-a0ad-043b0a574e55.svg)](https://wakatime.com/@89685b5b-ee36-49ba-a0ad-043b0a574e55) ![Instagram Follow](https://img.shields.io/twitter/follow/iamysandeep?style=social)
+## Glad to see you here! &nbsp;<img src="https://komarev.com/ghpvc/?username=ysandeepkumarreddy&label=Profile%20views&color=0e75b6&style=flat" alt="ysandeepkumarreddy" /> ![](https://img.shields.io/github/followers/thekingslayer11?label=Follow&style=social) [![wakatime](https://wakatime.com/badge/user/89685b5b-ee36-49ba-a0ad-043b0a574e55.svg)](https://wakatime.com/@89685b5b-ee36-49ba-a0ad-043b0a574e55) 
 
 I'm currently immersed in the world of microcontrollers, developing complex Android applications that seamlessly bridge the gap between hardware and software.
 
