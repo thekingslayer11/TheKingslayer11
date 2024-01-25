@@ -80,6 +80,7 @@ I'm currently immersed in the world of microcontrollers, developing complex Andr
 	<a href="https://t.me/ashif_hussain" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/telegram-app.png" alt="Telegram"/></a>
 	<a href="https://www.linkedin.com/in/md-ashif-hussain/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/loosemamma/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://discordapp.com/users/539959589005819914/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/discord.png" alt="Discord"/></a>
 	<a href="https://www.ysandeepkumarreddy.me/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/chrome.png" alt="portfoilo"/></a>
 	
 </p>
