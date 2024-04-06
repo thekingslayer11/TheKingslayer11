@@ -41,6 +41,11 @@ I'm currently immersed in the world of microcontrollers, developing complex Andr
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Vscode" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="36" height="36" alt="FireBase" /></a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="36" height="36" alt="Unity" /></a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="36" height="36" alt="Jupyter" />
+</a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" height="36" alt="AWS" /></a>
+<a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="36" height="36" alt="Power BI" />	
 </p>
 
 ## Projects and Dev Stuffs:
@@ -61,13 +66,13 @@ I'm currently immersed in the world of microcontrollers, developing complex Andr
  <details>
   <summary><b>⚡ Github Stats</b></summary>
 	<ul>
-		
+<!-- 	
  <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/ysandeepkumarreddy?cardType=level-alternate&theme=gotham&Title=B1DD08&Border=97BCDD&Ring=0E29DD" />
-		
+<!--		
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysandeepkumarreddy&exclude_repo=KNN-Image-Classification&show_icons=true&theme=gotham&layout=compact&langs_count=8&border_color=#D25E5D"/>  
-					
+<!--					
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ysandeepkumarreddy&theme=gotham"/>
-		
+<!--		
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysandeepkumarreddy&theme=github_dark"/>
 		
 </ul>
@@ -81,7 +86,7 @@ I'm currently immersed in the world of microcontrollers, developing complex Andr
 	<a href="https://www.linkedin.com/in/md-ashif-hussain/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/loosemamma/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://discordapp.com/users/539959589005819914/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/discord.png" alt="Discord"/></a>
-	<a href="https://www.ysandeepkumarreddy.me/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/chrome.png" alt="portfoilo"/></a>
+	<a href="https://ashif.is-a.dev/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/chrome.png" alt="portfoilo"/></a>
 	
 </p>
 <h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
