@@ -1,4 +1,4 @@
-# Hey there I'm [MD Ashif Hussain!](https://www.ysandeep.dev) <a href="https://www.ysandeep.dev/" target="_blank"><img src="https://media4.giphy.com/media/Z96Ax1zh5aSsHczGve/giphy.gif" width="78"> </a>
+# Hey there I'm [MD Ashif Hussain!]() <a href="#" target="_blank"><img src="https://media4.giphy.com/media/Z96Ax1zh5aSsHczGve/giphy.gif" width="78"> </a>
 
 <p align="center">
   <img src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/cover-sandeep.png" />
@@ -77,7 +77,7 @@ I'm currently immersed in the world of microcontrollers, developing complex Andr
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ysandeepkumarreddy&theme=gotham"/>
 <!--		
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysandeepkumarreddy&theme=github_dark"/>
-		
+-->		
 </ul>
 	
 </details> 
