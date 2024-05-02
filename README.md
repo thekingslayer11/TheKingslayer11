@@ -11,7 +11,7 @@ I'm currently immersed in the world of microcontrollers, developing complex IoT 
  
 ## Talking about Personal Stuff: 
 
-* 🌍  I'm based in Bengaluru, India
+* 🌍  I'm based in India
 * 🖥️  See my portfolio at [ashif](https://ashif.is-a.dev/)
 * ✉️  You can contact me at [my personal email](mailto:ashifhussain609@gmail.com)
 <!-- * 🚀  I'm currently working on [Minimal PDF merger and Splitter Application just using Python](http://github.com/ysandeepkumarreddy/pdf-desktop-application/releases)
